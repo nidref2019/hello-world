@@ -6,3 +6,5 @@ This is a bit about myself.
 testing again.
 
 branching again, pulling, committing, done.
+
+Trying to update in desktop version.
